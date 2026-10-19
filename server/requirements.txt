@@ -1,0 +1,6 @@
+requests
+fastapi
+pyDes
+pydantic
+uvicorn
+aiofiles
